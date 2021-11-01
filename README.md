@@ -5,10 +5,10 @@
 ## Desafio
 Dado um dataset simplificado disponibilizado no Kaggle (link no notebook), o desafio consistia em desenvolver e avaliar modelos de classificação que pudessem detectar transações fraudulentas. Com esse dataset, apesar de simplificado e organizado pelas equipers da plataforma, ainda carecia de alguns tratamentos que foram executados e detalhados ao longo do projeto. A análise final dos modelos nos trouxe insights de como o entendimento do problema nos previne de tomar decisões equivocadas.
 
-###**Outros artigos:**
+### **Outros artigos:**
 * Outliers em Data Science - https://medium.com/@hpaesdesouza/data-science-outliers-425d46476328
 * Análise de dados Airbnb Barcelona - https://medium.com/@hpaesdesouza/an%C3%A1lise-do-airbnb-em-barcelona-65601918bef8
 
-###**Contatos:**
+### **Contatos:**
 * [LinkedIn](www.linkedin.com/in/henriquepaes1)
 * [Medium](https://medium.com/@hpaesdesouza)
